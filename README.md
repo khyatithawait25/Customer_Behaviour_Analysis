@@ -42,3 +42,12 @@ Sales trends
 Customer segmentation
 Revenue distribution
 KPI metrics
+
+# Key Insights
+Certain product categories generated higher revenue
+
+Customer purchasing patterns varied across categories
+
+Identified high-value customers based on spending
+
+Some products had high demand but lower profit
